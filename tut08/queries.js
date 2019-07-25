@@ -1,0 +1,6 @@
+document.getElementById("output")
+document.getElementsByClassName("fruit")
+document.getElementsByTagName()
+document.getElementsByName()
+document.querySelector()
+document.querySelectorAll()
